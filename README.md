@@ -57,4 +57,4 @@ I have built plenty of projects throughout the years, but I haven't published th
 
 ## Contact
 
-no.
+Email: farismuhd172009@gmail.com
