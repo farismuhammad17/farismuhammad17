@@ -50,7 +50,7 @@ It's what started the Farix project. The only project on this GitHub account, so
 
 ## Achievements
 
-```bash
+```
 /> cat .gitignore | head -n 4
 # Projects (Ordered best to last)
 HaninArchiver
@@ -68,7 +68,7 @@ It was the middle of 12th when I joined into a school, National Centre for Excel
 
 This was until I was asked if I wished to join some inter-school competitions for programming. *"A break from Chemistry"*, I mused. I have left them in this folder in the order of attending them.
 
-```bash
+```
 /achievements> cat comp01.md
 ```
 
@@ -78,7 +78,7 @@ HPE Codewars, organised by Hewlett-Packard enterprise, in Bangalore, is a big co
 
 I had joined the school less than a month ago, and of perhaps 130-140 teams, I placed 8th. It was the first competition I attended, and I was happy with the outcome. I had no preparation, and I accept it.
 
-```bash
+```
 /achievements> cat comp02.md
 ```
 
@@ -92,7 +92,7 @@ Additional notes: The NPS Principal Mam was happy to have me and told me "contin
 
 ## Roadmap
 
-```bash
+```
 /achievements> cd ..
 /> cd future
 /future> cat README
@@ -104,14 +104,14 @@ I plan to write my OS, Farix, out as my pastime hobby, join into random competit
 
 ## Contact
 
-```bash
+```
 /future> cd ..
 /> cat CONTACT.md
 ```
 
 **Email:** farismuhd172009@gmail.com
 
-```bash
+```
 /> shutdown
 
 [INFO] Shutting down (S5) ...
