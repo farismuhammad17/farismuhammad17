@@ -25,7 +25,7 @@ When I was around 9, I was compelled to pick up Python. Afraid of snakes, I init
 
 I am now however old I am *(I'm not updating this number every year, just subtract the current date with 17th October, 2009)*, and I've learned a hell of a lot more printers during that time. I moved through languages, Java, JavaScript, HTML & CSS (if you can consider them), etc., retained what I got from them, and it was my ambition to move to the deepest parts of the computer. My *very natural* human curiosity was just so fascinated to know what was actually down there. This brought me straight into C, which I used to build many applications to automate my already bed-driven, curtain-closed, all-switches-right-next-to-my-bed kidneys.
 
-I loved the sheer power of C. It's incredible ability to control so much with such little effort. Even `malloc` was something fascinating. Perhaps it was because C was my from "non high-level" language, but it was truly eye-opening. C++ followed, though it felt like *"C + strings and lists named vectors."* Regardless, I persevered until I got immensely bored of everything. It got to a point that I could write out whole new programs within a weekend's time.
+I loved the sheer power of C. Its incredible ability to control so much with such little effort. Even `malloc` was something fascinating. Perhaps it was because C was my first "non high-level" language, but it was truly eye-opening. C++ followed, though it felt like *"C + strings and lists named vectors."* Regardless, I persevered until I got immensely bored of everything. It got to a point that I could write out whole new programs within a weekend's time.
 
 ## Education
 
@@ -72,7 +72,7 @@ This was until I was asked if I wished to join some inter-school competitions fo
 /achievements> cat comp01.md
 ```
 
-*25th July, 2026, Saturday.*
+*25th July, 2026, Saturday*
 
 HPE Codewars, organised by Hewlett-Packard enterprise, in Bangalore, is a big competition where many schools send their best students to race with each other to solve 30 or-so questions within the limited time given in Python, Java, C, or C++. The questions progress in difficulty, and harder questions earn more points.
 
@@ -82,13 +82,28 @@ I had joined the school less than a month ago, and of perhaps 130-140 teams, I p
 /achievements> cat comp02.md
 ```
 
-*7th August, 2026, Saturday.*
+*8th August, 2026, Saturday*
 
 National Public School, ITPL, organised a Hackathon under their brand-new-name, "Hacknexus". Whatever it means, you are provided a set of 10 questions to solve within 90 minutes. I solved them in 40, as I found them trivial.
 
 Placing 1st, I got the school a trophy, myself a certificate and a cheque for 5000 INR. The money was not of my concern, went to my father, for my concern was merely that I had won. I had, once again, no preparation (no clue how to).
 
 Additional notes: The NPS Principal Mam was happy to have me and told me "continue on my path" and "do what I do and keep growing" or something along those lines.
+
+```
+/achievements> cat comp03.md
+```
+
+*14th August, 2026, Friday*
+
+Rhetorica, organised by the National Centre for Excellence, is a collection of events, one of which was a Hackathon. This greatly differed from the earlier attempted `comp01` (HPE) and `comp02` (NPS), since those were pure coding challenges. This, on the other hand, constituted multiple rounds to test participants':
+
+* **Programming Skills *(30, 20, 5 minutes each question)*:** Three programming questions to solve, similar to the earlier competitions.
+* **Creative problem solving *(45 minutes)*:** "Forest animals may walk into railway crossings, causing accidents. How do we avoid this?" This is the summary of the problem given. Our solution was sensors that may detect wildlife, producing ultrasonic sound, inaudible to humans, enough to perturb creatures away.
+* **Robotics *(40 minutes)*:** Participants were allowed to observe a given "road" to build a simple contraption with simple material to be a sort of "car" capable of traversing through it. We were unfortunately inadequately provided materials, hence given an additional 10 minutes with the aforementioned missing materials we were initially unaware of (figured from others' creations). The final creation worked well, far better than we expected.
+* **Presentation skills *(45 minutes)*:** "Helmet that serves to help Cyclists' safety." Participants had to create a presentation of 5 slides (max) and speak on the solution that they come up with. We thought of infrared cameras to see in the dark; engines and warm blood are hot enough to be seen, even when dark, using which, we can improve night cycling safety. 
+
+I arrived at the school at 8 am, and left at 7 pm, when we found that our team had won 2nd place.
 
 ## Roadmap
 
