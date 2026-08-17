@@ -1,3 +1,5 @@
+*Don't want to read? Here's my [Portfolio](https://farismuhammad17.github.io).*
+
 # A Stranger? Or but a Passerby?
 
 ```
